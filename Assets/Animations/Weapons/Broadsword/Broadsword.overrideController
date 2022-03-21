@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Broadsword
+  m_Controller: {fileID: 9100000, guid: 18a85c41fc144de4889dda256e1a9e28, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 766c8da6a03c78f4599f2e7d16f84db8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 766c8da6a03c78f4599f2e7d16f84db8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 818453d54b0842d439b69115c231f933, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 818453d54b0842d439b69115c231f933, type: 2}
